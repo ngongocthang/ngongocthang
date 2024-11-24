@@ -2,22 +2,36 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+👉+Ngo+Ngoc+Thang!+👈;" /><br>
 </h1>
 
-<h2 align="center" style="color: #9370DB; font-family: 'Righteous', cursive; animation: rainbow 10s linear infinite;">
-  ⚒️ <span style="animation: rainbow 10s linear infinite 0.1s">L</span><span style="animation: rainbow 10s linear infinite 0.2s">a</span><span style="animation: rainbow 10s linear infinite 0.3s">n</span><span style="animation: rainbow 10s linear infinite 0.4s">g</span><span style="animation: rainbow 10s linear infinite 0.5s">u</span><span style="animation: rainbow 10s linear infinite 0.6s">a</span><span style="animation: rainbow 10s linear infinite 0.7s">g</span><span style="animation: rainbow 10s linear infinite 0.8s">e</span><span style="animation: rainbow 10s linear infinite 0.9s">s</span><span style="animation: rainbow 10s linear infinite 1s">-</span><span style="animation: rainbow 10s linear infinite 1.1s">F</span><span style="animation: rainbow 10s linear infinite 1.2s">r</span><span style="animation: rainbow 10s linear infinite 1.3s">a</span><span style="animation: rainbow 10s linear infinite 1.4s">m</span><span style="animation: rainbow 10s linear infinite 1.5s">e</span><span style="animation: rainbow 10s linear infinite 1.6s">w</span><span style="animation: rainbow 10s linear infinite 1.7s">o</span><span style="animation: rainbow 10s linear infinite 1.8s">r</span><span style="animation: rainbow 10s linear infinite 1.9s">k</span><span style="animation: rainbow 10s linear infinite 2s">s</span><span style="animation: rainbow 10s linear infinite 2.1s">-</span><span style="animation: rainbow 10s linear infinite 2.2s">T</span><span style="animation: rainbow 10s linear infinite 2.3s">o</span><span style="animation: rainbow 10s linear infinite 2.4s">o</span><span style="animation: rainbow 10s linear infinite 2.5s">l</span><span style="animation: rainbow 10s linear infinite 2.6s">s</span> ⚒️
+<h2 align="center" style="font-family: 'Righteous', cursive;">
+  ⚒️ 
+  <span style="color: #FF5733;">L</span>
+  <span style="color: #33FF57;">a</span>
+  <span style="color: #3357FF;">n</span>
+  <span style="color: #F1C40F;">g</span>
+  <span style="color: #8E44AD;">u</span>
+  <span style="color: #E74C3C;">a</span>
+  <span style="color: #1ABC9C;">g</span>
+  <span style="color: #2ECC71;">e</span>
+  <span style="color: #3498DB;">s</span>
+  <span style="color: #9B59B6;">-</span>
+  <span style="color: #34495E;">F</span>
+  <span style="color: #16A085;">r</span>
+  <span style="color: #27AE60;">a</span>
+  <span style="color: #2980B9;">m</span>
+  <span style="color: #8E44AD;">e</span>
+  <span style="color: #2C3E50;">w</span>
+  <span style="color: #7F8C8D;">o</span>
+  <span style="color: #E67E22;">r</span>
+  <span style="color: #D35400;">k</span>
+  <span style="color: #C0392B;">s</span>
+  <span style="color: #BDC3C7;">-</span>
+  <span style="color: #7D3C98;">T</span>
+  <span style="color: #F39C12;">o</span>
+  <span style="color: #1E8449;">o</span>
+  <span style="color: #D5DBDB;">l</span>
+  <span style="color: #6C3483;">s</span>
+  ⚒️
 </h2>
-
-<style>
-@keyframes rainbow {
-  0% { color: #ff0000; }
-  14% { color: #ff8000; }
-  28% { color: #ffff00; }
-  42% { color: #80ff00; }
-  57% { color: #00ff00; }
-  71% { color: #00ff80; }
-  85% { color: #00ffff; }
-  100% { color: #0080ff; }
-}
-</style>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="filter: hue-rotate(45deg);" />
