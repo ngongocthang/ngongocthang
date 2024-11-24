@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+👉+Ngo+Ngoc+Thang!+👈;" /><br>
 </h1>
 
-<h2 align="center">⚒️ L a n g u a g e s - F r a m e w o r k s - T o o l s ⚒️
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="filter: hue-rotate(45deg);" />
