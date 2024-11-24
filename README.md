@@ -6,12 +6,6 @@
 
 <br/>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/142952742?v=4"  />
-
-###
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
