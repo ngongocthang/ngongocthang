@@ -1,9 +1,6 @@
 <h1 align="center" style="color: #6495ED; font-family: 'Righteous', cursive;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+👉+Ngo+Ngoc+Thang!+👈;" /><br>
-    <h3 align="center" style="color: #FF69B4; font-family: 'Righteous', cursive;"> I'm a developer intern </h3>
 </h1>
-
-<br/>
 
 <h2 align="center" style="color: #9370DB; font-family: 'Righteous', cursive;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
