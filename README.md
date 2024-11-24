@@ -2,7 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+👉+Ngo+Ngoc+Thang!+👈;" /><br>
 </h1>
 
-<h2 align="center" style="color: #9370DB; font-family: 'Righteous', cursive;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" style="color: #9370DB; font-family: 'Righteous', cursive; animation: rainbow 10s linear infinite;">
+  ⚒️ <span style="animation: rainbow 10s linear infinite 0.1s">L</span><span style="animation: rainbow 10s linear infinite 0.2s">a</span><span style="animation: rainbow 10s linear infinite 0.3s">n</span><span style="animation: rainbow 10s linear infinite 0.4s">g</span><span style="animation: rainbow 10s linear infinite 0.5s">u</span><span style="animation: rainbow 10s linear infinite 0.6s">a</span><span style="animation: rainbow 10s linear infinite 0.7s">g</span><span style="animation: rainbow 10s linear infinite 0.8s">e</span><span style="animation: rainbow 10s linear infinite 0.9s">s</span><span style="animation: rainbow 10s linear infinite 1s">-</span><span style="animation: rainbow 10s linear infinite 1.1s">F</span><span style="animation: rainbow 10s linear infinite 1.2s">r</span><span style="animation: rainbow 10s linear infinite 1.3s">a</span><span style="animation: rainbow 10s linear infinite 1.4s">m</span><span style="animation: rainbow 10s linear infinite 1.5s">e</span><span style="animation: rainbow 10s linear infinite 1.6s">w</span><span style="animation: rainbow 10s linear infinite 1.7s">o</span><span style="animation: rainbow 10s linear infinite 1.8s">r</span><span style="animation: rainbow 10s linear infinite 1.9s">k</span><span style="animation: rainbow 10s linear infinite 2s">s</span><span style="animation: rainbow 10s linear infinite 2.1s">-</span><span style="animation: rainbow 10s linear infinite 2.2s">T</span><span style="animation: rainbow 10s linear infinite 2.3s">o</span><span style="animation: rainbow 10s linear infinite 2.4s">o</span><span style="animation: rainbow 10s linear infinite 2.5s">l</span><span style="animation: rainbow 10s linear infinite 2.6s">s</span> ⚒️
+</h2>
+
+<style>
+@keyframes rainbow {
+  0% { color: #ff0000; }
+  14% { color: #ff8000; }
+  28% { color: #ffff00; }
+  42% { color: #80ff00; }
+  57% { color: #00ff00; }
+  71% { color: #00ff80; }
+  85% { color: #00ffff; }
+  100% { color: #0080ff; }
+}
+</style>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="filter: hue-rotate(45deg);" />
